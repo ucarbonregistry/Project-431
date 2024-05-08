@@ -1,5 +1,5 @@
 # Project-431
-3.0 MW Bundled Small Scale Wind Power Project by Energy Development Company Limited by Energy Advisory Services Pvt Ltd
+3.0 MW Bundled Small Scale Wind Power Project by Energy Development Company Limited 
 ___________
 1st CoU Issuance Period: 11 years, 0 months
 
