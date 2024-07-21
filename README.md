@@ -39,3 +39,74 @@ otherwise would have been generated using grid mix power plants, which is domina
 fuel based thermal power plants.The estimated annual average and the total CO2e emission reduction
 by the project activity is expected to be 4,943t/CO2, whereas actual emission reduction achieved
 during the first CoU period shall be submitted as a part of first monitoring and verification.
+______________
+MP-01 ISSUANCE DATE: 19/07/24
+
+QTY: 54378
+________________
+Serial Number: 0001-000001-006140-UCR-CoU-IN-431-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 6140
+_________
+Serial Number: 0001-006141-011425-UCR-CoU-IN-431-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 5285
+____________
+Serial Number: 0001-011426-016018-UCR-CoU-IN-431-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 4593
+______________
+Serial Number: 0001-016019-021559-UCR-CoU-IN-431-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 5541
+_______________
+Serial Number: 0001-021560-026652-UCR-CoU-IN-431-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 5093
+______________
+Serial Number: 0001-026653-031425-UCR-CoU-IN-431-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 4773
+_________________
+Serial Number: 0001-031426-036383-UCR-CoU-IN-431-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 4958
+_______________
+Serial Number: 0001-036384-040383-UCR-CoU-IN-431-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 4000
+____________
+Serial Number: 0001-040384-044907-UCR-CoU-IN-431-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 4524
+______________
+Serial Number: 0001-044908-049430-UCR-CoU-IN-431-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 4523
+________
+Serial Number: 0001-049431-054378-UCR-CoU-IN-431-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 4948
+__________________
